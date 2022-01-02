@@ -26,22 +26,23 @@ We can see a negative correlation between Total Steps and Sedentary Minutes. It 
 
 ### Total Steps vs. Calories
 We can see a positive correlation between total steps and calories burned. It is evident that people logging in more steps are physically more active hence they are able to burn more calories everyday. 
+![Total Steps vs. Calories](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/385d7ac84112cdc02d7e3b9c851f29f4cf887610/img/stepsVcals.jpg)
 
 ### Minutes Asleep vs. Time in Bed
 Participants spend more time in bed than actual time asleep. Sleep quality and sleeping habits are not ideal.
-
+![Minutes Asleep vs. Time in Bed](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/385d7ac84112cdc02d7e3b9c851f29f4cf887610/img/minsInbed.jpg)
 I can see a strong positive correlation between total minutes asleep and total time in bed.
 
 ### Calories vs. Distance vs. Total Minutes Asleep
 
 Based on this plot, we can determine that even after long distances and calories expended, the average amount of sleep ranges from 6 - 8 hours. There were hits of red and orange, but I do think these were recorded in error. However, it is possible some individuals stayed up most of the night and only slept for a couple hours or they might have only tracked themselves taking short naps.
+![Calories vs. Distance vs. Total Minutes Asleep](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/385d7ac84112cdc02d7e3b9c851f29f4cf887610/img/calVdistVmins.jpg)
 
 This plot also illustrates the positive correlation between total distance and calories. In other words, the more distance traveled, the more calories expended.
-
 We can also see the overall trend that the people with more distance/calories expended are able to spend more time asleep. 
 
-
 ## Correlation Matrix
+![Correlation Matrix](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/385d7ac84112cdc02d7e3b9c851f29f4cf887610/img/corr-matrix.jpg)
 
 From the above correlation matrix, we can see a strong correlation between the following metrics which are relevant: 
 
@@ -54,6 +55,7 @@ We can identify different trends and user behavior relating to the metrics like 
 
 ## Tracked Hours throuhout the Week
 
+![Tracked Hours throughout the week](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/385d7ac84112cdc02d7e3b9c851f29f4cf887610/img/trackedHrs.jpg)
 The average user spends a lot of sedentary time.The number of sedentary hours is lower during the weekends and at the start of the week. However, it sees an increasing trend during the middle of the week for example during Tuesday/Wednesday/Thursday. This might be due to work stress or users simply forgetting to workout.The users active time is also not consistent throughout the week. Bellabeat users might be encouraged to track their active/sedentary hours throughout the the week and reminded to take some time to relieve stress and encourage some light activity mid-week. 
 
 
