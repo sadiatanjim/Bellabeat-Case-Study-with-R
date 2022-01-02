@@ -22,6 +22,8 @@ To see the full Report on the Case Study, please click [Here](https://github.com
 ### Total Steps Vs. Sedentary Minutes
 We can see a negative correlation between Total Steps and Sedentary Minutes. It is evident that people logging more sedentary time are less likely to take part in physical activity like walking. 
 
+![Total Steps vs. Sedentary Minutes](https://github.com/sadiatanjim/Bellabeat-Case-Study-with-R/blob/ea79466d659fce86f80364c10cb9bfc20dd86db5/img/stepsVmins.jpg)
+
 ### Total Steps vs. Calories
 We can see a positive correlation between total steps and calories burned. It is evident that people logging in more steps are physically more active hence they are able to burn more calories everyday. 
 
